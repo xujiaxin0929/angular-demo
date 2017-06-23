@@ -1,0 +1,23 @@
+{
+  "name": "xjx",
+  "version": "1.0.0",
+  "description": "This repository contains the sample code for notebook.",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionic-in-action/chapter3.git"
+  },
+  "author": "Jeremy Wilken",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ionic-in-action/chapter3/issues"
+  },
+  "homepage": "https://github.com/ionic-in-action/chapter3",
+  "dependencies": {
+    "body-parser": "^1.9.3",
+    "express": "^4.10.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
