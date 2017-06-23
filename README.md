@@ -12,7 +12,7 @@ started：
 3.在http://localhost:3000
 ```
 
-![image](https://github.com/xujiaxin/angular-demo/blob/master/notebook.jpg)
+![image](https://github.com/xujiaxin0929/angular-demo/blob/master/notebook.jpg)
 
 
 
